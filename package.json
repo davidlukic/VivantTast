@@ -1,0 +1,23 @@
+{
+  "name": "vivanttast",
+  "version": "1.0.0",
+  "description": "Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David2606/VivantTast.git"
+  },
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David2606/VivantTast/issues"
+  },
+  "homepage": "https://github.com/David2606/VivantTast#readme",
+  "devDependencies": {
+    "cypress": "^6.5.0"
+  },
+  "dependencies": {}
+}
